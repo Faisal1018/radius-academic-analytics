@@ -1,0 +1,13 @@
+course_id,course_name,course_code,category,level,duration_months,course_fee,status
+1,Mathematics,RMATH01,Science,SSC,6,6000,Active
+2,Physics,RPHYS01,Science,HSC,8,8000,Active
+3,Chemistry,RCHEM01,Science,HSC,8,8000,Active
+4,Biology,RBIOL01,Science,HSC,8,7500,Active
+5,ICT,RICT01,Technology,HSC,6,5000,Active
+6,English,RENG01,Language,SSC,6,5000,Active
+7,Higher Mathematics,RHMATH01,Science,HSC,8,8500,Active
+8,Admission Mathematics,RAMATH01,Admission,Admission,5,7000,Active
+9,Admission Physics,RAPHYS01,Admission,Admission,5,7000,Active
+10,Admission Chemistry,RACHEM01,Admission,Admission,5,7000,Active
+11,SSC Mathematics,RSSCM01,Science,SSC,10,9000,Active
+12,SSC Physics,RSSCP01,Science,SSC,10,9000,Active

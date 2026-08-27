@@ -1,0 +1,16 @@
+teacher_id,first_name,last_name,gender,phone,email,specialization,joining_date,status
+1,Abdullah,Hasan,Male,01810000001,abdullah.hasan01@example.com,Mathematics,2022-01-10,Active
+2,Sadia,Rahman,Female,01810000002,sadia.rahman02@example.com,Physics,2022-02-15,Active
+3,Imran,Hossain,Male,01810000003,imran.hossain03@example.com,Chemistry,2022-03-01,Active
+4,Nabila,Akter,Female,01810000004,nabila.akter04@example.com,Biology,2022-04-12,Active
+5,Rakib,Ahmed,Male,01810000005,rakib.ahmed05@example.com,ICT,2022-05-20,Active
+6,Tanjila,Islam,Female,01810000006,tanjila.islam06@example.com,English,2022-06-05,Active
+7,Mehedi,Hasan,Male,01810000007,mehedi.hasan07@example.com,Mathematics,2022-07-18,Active
+8,Faria,Sultana,Female,01810000008,faria.sultana08@example.com,Physics,2022-08-10,Active
+9,Saif,Hossain,Male,01810000009,saif.hossain09@example.com,Chemistry,2023-01-15,Active
+10,Mim,Chowdhury,Female,01810000010,mim.chowdhury10@example.com,Biology,2023-02-20,Active
+11,Arif,Karim,Male,01810000011,arif.karim11@example.com,ICT,2023-03-12,Active
+12,Sumaiya,Jahan,Female,01810000012,sumaiya.jahan12@example.com,English,2023-04-25,Active
+13,Tanvir,Ahmed,Male,01810000013,tanvir.ahmed13@example.com,Mathematics,2023-06-01,Active
+14,Marzia,Afrin,Female,01810000014,marzia.afrin14@example.com,Physics,2023-07-15,Active
+15,Farhan,Kabir,Male,01810000015,farhan.kabir15@example.com,Chemistry,2023-09-10,Active
